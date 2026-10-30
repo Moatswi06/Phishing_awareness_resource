@@ -58,6 +58,12 @@ KEY TOPICS COVERED
    
    MFA Audit
 
+   **USAGE**
+   python phishing_detector.py message.eml
+python phishing_detector.py --sms "Your parcel is held, pay fee: http://x.top"
+python phishing_detector.py --url "http://paypa1-login.top"
+python phishing_detector.py message.eml --check-tls
+
 
 AUTHOR
 
