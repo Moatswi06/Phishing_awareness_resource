@@ -12,7 +12,6 @@ Contents
 Phishing awareness note:This notes contains full description details about phishing and tips on how to avoid phishing attacks as na individual.
 
 
-
 KEY TOPICS COVERED
 
 
@@ -20,32 +19,46 @@ Introduction to phishing
 
 
 Types of Phishing Attacks
+  
    Email Phishing
+  
    Smishing and Vishing
+ 
    Spear Phishing
 
 
 3.How to recognize Phishing Emails
+  
    Common Signs of Phishing Emails
+  
    Analyzing Email Headers
 
 
 4.How To Avoiding Phishing Websites
+ 
    Checking URLs
+  
    Understanding TLS certificates
 
 
 5.Social Engineering Techniques
+  
    Common Social Engineering Tactics
+  
    Ways to Respond to Social Engineering
 
 
 6.Incident Response Tips
+  
    Containment
+   
    Eradication
+ 
    Recovery
+   
    MFA Audit
 
 
 AUTHOR
+
 This note were created by MOTHUSI MOATSWI
