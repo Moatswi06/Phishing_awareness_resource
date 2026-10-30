@@ -15,10 +15,10 @@ Phishing awareness note:This notes contains full description details about phish
 KEY TOPICS COVERED
 
 
-Introduction to phishing
+1.Introduction to phishing
 
 
-Types of Phishing Attacks
+2.Types of Phishing Attacks
   
    Email Phishing
   
